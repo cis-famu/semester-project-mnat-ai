@@ -1,5 +1,5 @@
  # MNat.ai - Natural Disaster AI
- ![Logo](https://imgur.com/a/heBcjNi)
+ ![Logo](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/LOGO.png)
 
 **Table of Contents**
 1. [About the project](#about-the-project)
@@ -18,4 +18,4 @@ In this section we summarize each milestone and link to a more detail document o
 
 ## Milestone 1
 In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates.
-[Milestone 1 Details](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%201.md)
+[Milestone 1 Details](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone-1.md)
