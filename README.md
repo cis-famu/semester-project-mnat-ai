@@ -20,8 +20,8 @@ In this section we summarize each milestone and link to a more detail document o
 
 ## Milestone 1
 In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates.
-[Milestone 1 Details](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%201.md)
+[Milestone 1 Details](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/Milestone%201.md)
 
 ## Milestone 2
 In this milestone we continue with planning actives. We outline our tasks using a workbreak down structure, network diagram and gnatt chart. We begin to document user requirements by creating a detailed requirements list and use cases. We also evaluate similar systems, and highlight external APIs that will be integrated.
-[Milestone 2 Details](https://github.com/CJdaRacc/MNat.ai/blob/main/milestone%202.md)
+[Milestone 2 Details](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%202.md)
