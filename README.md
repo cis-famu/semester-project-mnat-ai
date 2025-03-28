@@ -1,5 +1,5 @@
  # MNat.ai - Natural Disaster AI
- ![Logo](https://imgur.com/a/heBcjNi)
+ ![Logo](https://github.com/CJdaRacc/MNat.ai/blob/main/LOGO.png)
 
 **Table of Contents**
 1. [About the project](#about-the-project)
@@ -7,6 +7,8 @@
 3. [Our Organization]()
 4. [Milestones](#milestones)
     - [Milestone 1](#milestone-1)
+    - [Milestone 2](#milestone-2)
+    - [Milestone 3](#milestone-3)
    
 
 # About the Project
@@ -26,4 +28,4 @@ In this milestone we continue with planning actives. We outline our tasks using 
 
 ## Milestone 3
 In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates.
-[Milestone 3 Details]()
+[Milestone 3 Details](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%203.md)
