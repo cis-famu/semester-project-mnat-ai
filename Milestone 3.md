@@ -173,6 +173,9 @@ Please submit your details that will allow us to contact you and guide you to ou
 ![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide(3).png)
 ![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide(4).png)
 ![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide(5).png)
+![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide(6).png)
+![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide(7).png)
+![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide(8).png)
 
 
 ## References
