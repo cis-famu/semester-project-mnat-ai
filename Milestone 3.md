@@ -2,13 +2,11 @@
 
 **Table of Contents**
 1. [Meeting Minutes](#Meeting-Minutes)
-2. [Data Flow Diagram](#swot-analysis)
-3. [Request for Quote](#budget-scope--time-estimates)
-4. [Interactive wireframe](#team-contract)
-5. [Marketing Material](#references)
-6. [Style Guide](#references)
-
-///
+2. [Data Flow Diagram](#Data-Flow-Diagram)
+3. [Request for Quote](#Request-for-Quote)
+4. [Interactive wireframe](#Interactive-wireframe)
+5. [Marketing Material](#Marketing-Material)
+6. [Style Guide](#Style-Guide)
 
 # Meeting Minutes
 
@@ -65,9 +63,9 @@
 
 ## Data Flow Diagram
 
-![Use Cases Diagram](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/DFDChrt.png)
-
-
+![Data Flow Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/DFD1.png)
+![Data Flow Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/DFD2.jpg)
+![Data Flow Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/DFD3.jpg)
 
 
 ## Request for quote
@@ -157,21 +155,24 @@ Please submit your details that will allow us to contact you and guide you to ou
 
 ## Interactive Wireframe
 
-![Use Cases Diagram](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/DFDChrt.png)
+![Interactive Wireframe](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/test_video_MNat.ai.gif)
 
 
 ## Marketing Material
 
-![Use Cases Diagram](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/DFDChrt.png)
+![Marketing Material](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/unnamed.png)
+![Marketing Material](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/unnamed1.png)
+![Marketing Material](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/unnamed2.png)
+
 
 ## Style Guide
 
-![Use Cases Diagram](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/DFDChrt.png)
-![Use Cases Diagram](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/DFDChrt.png)
-![Use Cases Diagram](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/DFDChrt.png)
-![Use Cases Diagram](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/DFDChrt.png)
-![Use Cases Diagram](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/DFDChrt.png)
-![Use Cases Diagram](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/DFDChrt.png)
+![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide.png)
+![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide(1).png)
+![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide(2).png)
+![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide(3).png)
+![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide(4).png)
+![Use Cases Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide(5).png)
 
 
 ## References
