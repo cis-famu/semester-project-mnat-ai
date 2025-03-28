@@ -24,7 +24,7 @@ In this milestone, we are formalizing our project idea by creating our project c
 
 ## Milestone 2
 In this milestone we continue with planning actives. We outline our tasks using a workbreak down structure, network diagram and gnatt chart. We begin to document user requirements by creating a detailed requirements list and use cases. We also evaluate similar systems, and highlight external APIs that will be integrated.
-[Milestone 2 Details](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/milestone-2.md)
+[Milestone 2 Details](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%202.md)
 
 ## Milestone 3
 In this milestone you will move into the design phase of the project.
