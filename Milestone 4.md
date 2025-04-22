@@ -5,8 +5,8 @@
 2. [Risk Register](#risk-register)
 3. [Collection Relationship Diagram](#Collection-Relationship-Diagram)
 4. [Data Dictionary](#Data-Dictionary)
-5. [Lessons-learned report](#Lessons-learned-report)
-6. [Poster](#poster)
+5. [Lessons learned report](#Lesson-Learned-Report)
+6. [Poster](#Poster)
 7. [MNat.ai Poster presentation](#MNat.ai-Poster-presentation)
 
 # Meeting Minutes
@@ -196,7 +196,7 @@ Milestone 4 – Slide Preparation
 | Resource_Importance   |             | string    | Importance level (e.g., Critical, Optional)               |
 | Resource_Location     |             | string    | Location where the resource is available                  |
 
-# Lesson Learned Report for MNat.ai
+# Lesson Learned Report
 
 This report is to show what knowledge and skills we gathered through this process. We were able to help each other with many aspects of this project which led to the successful completion of it. Below is the Lessons Learned statement and also a reflection of our improvements over the duration of this project.
 
@@ -241,11 +241,11 @@ In the future, ensure that the people working together are coordinated well enou
 The projects are being done according to the instructions and improved to meet the expectations.
 
 
-##Poster
+## Poster
 
 ![CIS EXPO POSTER](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/Milestone%204/MNat.ai%20Poster(1).png)
 
-##MNat.ai Poster presentation
+## MNat.ai Poster presentation
 
 [![CIS PRESENTATION](https://img.youtube.com/vi/m6dXoNuk4Nk/0.jpg)](https://www.youtube.com/watch?v=m6dXoNuk4Nk)
 
