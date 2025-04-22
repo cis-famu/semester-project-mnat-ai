@@ -243,7 +243,7 @@ The projects are being done according to the instructions and improved to meet t
 
 ##Poster
 
-![CIS EXPO POSTER](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide.png)
+![CIS EXPO POSTER](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/Milestone%204/MNat.ai%20Poster(1).png)
 
 ##MNat.ai Poster presentation
 
