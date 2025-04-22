@@ -9,6 +9,7 @@
     - [Milestone 1](#milestone-1)
     - [Milestone 2](#milestone-2)
     - [Milestone 3](#milestone-3)
+    - [Milestone 4](#milestone-4)
    
 
 # About the Project
@@ -29,3 +30,7 @@ In this milestone we continue with planning actives. We outline our tasks using 
 ## Milestone 3
 In this milestone you will move into the design phase of the project.
 [Milestone 3 Details](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/Milestone%203.md)
+
+## Milestone 4
+n this milestone complete your database design and conclude about what was learnt during this process. An important part of a project is understanding the potential risks.
+[Milestone 4 Details](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/Milestone%203.md)
