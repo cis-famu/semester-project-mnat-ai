@@ -140,7 +140,7 @@ Milestone 4 – Slide Preparation
 
 ## Collection-Relationship-Diagram
 
-![Collection Relationship-Diagram](\\)
+![Collection Relationship-Diagram](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/Milestone%204/Collection%20Relationship%20Diagram.png)
 
 ## Data Dictionary 
 
