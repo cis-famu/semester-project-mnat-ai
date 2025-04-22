@@ -7,7 +7,8 @@
 4. [Data Dictionary](#Data-Dictionary)
 5. [Lessons-learned report](#Lessons-learned-report)
 6. [Poster](#poster)
-7. [MNat.ai Poster presentation](#MNat.ai Poster presentation)
+7. [MNat.ai Poster presentation](#MNat.ai-Poster-presentation)
+
 # Meeting Minutes
 
 # Meeting Notes
@@ -244,9 +245,9 @@ The projects are being done according to the instructions and improved to meet t
 
 ![CIS EXPO POSTER](https://github.com/cis-famu/semester-project-mnat-ai/blob/main/milestone%203/MNAT%20AI%20Style%20Guide.png)
 
-## MNat.ai Poster presentation
+##MNat.ai Poster presentation
 
-[![Watch the video](https://img.youtube.com/vi/m6dXoNuk4Nk/0.jpg)](https://www.youtube.com/watch?v=m6dXoNuk4Nk)
+[![CIS PRESENTATION](https://img.youtube.com/vi/m6dXoNuk4Nk/0.jpg)](https://www.youtube.com/watch?v=m6dXoNuk4Nk)
 
 ## References
 *None*
